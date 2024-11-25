@@ -54,3 +54,7 @@ Huge thanks to <a href="https://twitter.com/transitive_bs">Travis Fischer</a> fo
 ## License
 
 MIT © Gabe Ragland (follow me on <a href="https://twitter.com/gabe_ragland">Twitter</a>)
+
+
+## ⭐ Support the Project
+If you find this project helpful, please give it a ⭐ to show your support!
